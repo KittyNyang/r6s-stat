@@ -37,7 +37,7 @@ for ind in tqdm(range(0,len(operatorListDiv))):
     operatoriconURLDict[operatorname] = operatoriconURL
 
 
-token = ''
+token = '8fEPEIgarT_KBoRG9VfO6z23E_lWj0GW'
 
 client = discord.Client() # Create Instance of Client. This Client is discord server's connection to Discord Room
 def deleteTags(htmls):
