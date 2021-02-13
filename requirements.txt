@@ -10,6 +10,5 @@ requests
 urllib3
 websockets
 lxml
-re
 warnings
 unicodedata
