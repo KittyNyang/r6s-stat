@@ -1,1 +1,1 @@
-worker: RainbowSixSIegeSearchBot.py
+worker: Covid19KoreaStatusBot.py
