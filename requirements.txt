@@ -1,0 +1,12 @@
+git+https://github.com/Rapptz/discord.py@v0.16.12
+aiohttp
+async-timeout
+beautifulsoup4
+certifi
+chardet
+idna
+multidict
+requests
+urllib3
+websockets
+lxml
