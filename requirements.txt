@@ -10,4 +10,3 @@ requests
 urllib3
 websockets
 lxml
-time
